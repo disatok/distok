@@ -1,1 +1,1 @@
-# distok
+run tests: truffle test
